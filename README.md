@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MERN,MEAN**
+- 💬 Ask me about **MERN,MEAN,Laravel**
 
 - 📫 How to reach me **ali.raza923@gmail.com**
 
